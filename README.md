@@ -1,14 +1,2 @@
 # SystemProgramming-HW2
-# SystemProgrmming-HW2-exe2
-# SystemProgrmming-HW2-exe2
-# SystemProgrmming-HW2-exe2
-# SystemProgrmming-HW2-exe2
-# SystemProgrmming-HW2-exe2
-# SystemProgrmming-HW2-exe2
-# SystemProgrmming-HW2-exe2
-# SystemProgrmming-HW2-exe2
-# SystemProgrmming-HW2-exercise2
-# SystemProgrmming-HW2-exercise2
-# exe2SystemProgramming
-# exe2SystemProgramming
-# exe2SystemProgramming
+
